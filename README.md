@@ -1,3 +1,5 @@
+***This code is not maintained, and may break in future versions of Go. You will not get support.***
+
 # gocalc
 This calculator is a command-line tool that supports basic arithmetic operations, variables, and functions. It reads input from the user, parses it into tokens, and performs the appropriate calculations. The calculator will continue to run until the user closes it, allowing the user to enter multiple expressions.
 
